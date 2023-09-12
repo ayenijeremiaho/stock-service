@@ -5,7 +5,7 @@
 # Getting started
 - Clone the repository
 ```
-git clone  <git lab template url> <project_name>
+git clone  https://github.com/ayenijeremiaho/stock-service.git
 ```
 - Install dependencies
 ```
